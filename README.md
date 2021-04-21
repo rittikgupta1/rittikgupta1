@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik Gupta</h1>
 <h3 align="center">A Student who loves to code 💻 .</h3>
-
+<img align="right" width="30" src="https://github.com/rittikgupta1/rittikgupta1/blob/main/pngwing.com.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rittikgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="rittikgupta1" /> </p>
 
 - 🔭 I’m currently working on **Full-stack development**
@@ -10,7 +10,7 @@
 - 📫 How to reach me **rittikgupta1@gmail.com**
 
 - ⚡ Fun fact **I am pursuing B.Tech**
-<img align="right" src="https://github.com/rittikgupta1/rittikgupta1/blob/main/pngwing.com.png">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rittikgupta2" target="blank"><img align="center" src="https://github.com/rittikgupta1/rittikgupta1/blob/main/twitter.svg" alt="rittikgupta2" height="30" width="40" /></a>
