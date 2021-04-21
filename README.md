@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ritik Gupta</h1>
 <h3 align="center">A Student who loves to code 💻 .</h3>
-<img align="right" width="30" src="https://github.com/rittikgupta1/rittikgupta1/blob/main/pngwing.com.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rittikgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="rittikgupta1" /> </p>
 
+<img align="right" width="300" src="https://github.com/rittikgupta1/rittikgupta1/blob/main/pngwing.com.png">
 - 🔭 I’m currently working on **Full-stack development**
 
 - 🌱 I’m currently learning **everything😂.**
