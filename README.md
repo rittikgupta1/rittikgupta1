@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rittikgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="rittikgupta1" /> </p>
 
 <img align="right" width="300" src="https://github.com/rittikgupta1/rittikgupta1/blob/main/pngwing.com.png">
-- 🔭 I’m currently working on **Full-stack development**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **everything😂.**
+- 🌱 I’m currently learning **Tableau.**
 
 - 📫 How to reach me **rittikgupta1@gmail.com**
 
